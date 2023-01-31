@@ -1,3 +1,6 @@
+NodeJs  v16.16.0
+npm     v9.2.0
+
 ### FRONTEND
  - `cd frontend`
  - `npm i`
@@ -8,6 +11,4 @@
  - `cd backend`
  - `npm i`
  - `npm run dev`
-
-## TESTES BACKEND
- - `npm run test`
+ - testes: `npm run test`
