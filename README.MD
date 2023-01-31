@@ -1,5 +1,5 @@
-NodeJs  v16.16.0
-npm     v9.2.0
+- **NodeJs**  v16.16.0
+- **npm**     v9.2.0
 
 ### FRONTEND
  - `cd frontend`
